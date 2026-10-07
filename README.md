@@ -11,7 +11,7 @@ user@192.168.1.10 ~$
 
 ```bash
 git clone https://github.com/Mabedini63/IP-in-PS1
-cd set-ps1
+cd IP-in-PS1/
 chmod +x install.sh set-ps1.sh
 ./install.sh
 source ~/.bashrc

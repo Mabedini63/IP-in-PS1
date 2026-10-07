@@ -10,7 +10,7 @@ user@192.168.1.10 ~$
 ## نصب سریع
 
 ```bash
-git clone https://github.com/mabedini63/set-ps1.git
+git clone https://github.com/Mabedini63/IP-in-PS1
 cd set-ps1
 chmod +x install.sh set-ps1.sh
 ./install.sh
